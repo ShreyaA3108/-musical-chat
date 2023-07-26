@@ -1,4 +1,5 @@
 import React, { Component, useState, useEffect } from "react";
+import "../../Styles/Main.css";
 
 import Spotify from "spotify-web-api-js";
 const spotifyWebApi = new Spotify();
